@@ -5,5 +5,6 @@ public class Kaixo {
 		System.out.println("kaixo");
 		System.out.println("kaixo2");
 		System.out.println("kaixo3");
+		System.out.println("kaixo4");
 	}
 }
